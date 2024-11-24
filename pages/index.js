@@ -8,12 +8,4 @@ function Home() {
   );
 }
 
-function teste() {
-  alert("olá, mundo!");
-}
-
-function teste2() {
-  alert("erro na identação");
-}
-
 export default Home;
